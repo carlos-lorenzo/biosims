@@ -1,0 +1,8 @@
+numpy>=1.23
+matplotlib>=3.5
+seaborn>=0.11
+scipy>=1.7
+jupyter
+# Optional (CPU-friendly) -- adjust or remove if you target GPU
+torch>=1.10
+snntorch
